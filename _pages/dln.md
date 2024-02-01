@@ -1,7 +1,7 @@
 ---
 title:"Digital Literacy Narrative"
 permalink: /dln/
-author_profile: true
+author_profile: false
 ---
 
 ##My Reflection 
