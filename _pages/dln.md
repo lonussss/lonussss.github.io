@@ -1,6 +1,6 @@
 ---
-title:"Digital Literacy Narrative"
-permalink: /dln/
+title: "Digital Literacy Narrative"
+permalink: /DLN/
 author_profile: false
 ---
 
