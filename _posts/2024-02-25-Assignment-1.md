@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1"
+title: "Assignment 1: Cultural Heritage By the Numbers"
 categories:
 	- blog 
 tags:
@@ -21,7 +21,7 @@ The website is more user friendly and visually appealing. However, the website i
 
 ## **Part 2**
 
-The culture with by far the most items in the collection is American, this is followed by German, French, Italian, British and Japanese. While there are plenty more cultures within the cultures, the pieces that those cultures possess are far less than the aforementioned cultures. The collection is still majority composed of pieces from western cultures. For our culture, we chose Korean, and the piece that was most viewed according to the Harvard_API_ALL_objects is a vessel with the title “ Large, Broad-Shouldered Jar with Decoration of Two Striding Dragons, Each Pursuing a Flaming Jewel”. ![Vessel](vessel.jpeg) The piece that was the least viewed was a fragment titled“ Sherd: Portion of the Lip of a Vessel, Probably a Jar or Bottle”. ![Fragment](fragment.jpeg) The most viewed object is a beautiful jar decorated with a drawing of two dragons, although being a Korean piece, the piece is something that is able to be enjoyed by people from all cultures and backgrounds. On the other hand, the least viewed peace is a fragment, with its origins being unknown as well. The reason why this could be the least view may be because of how unflattering it looks. There is nothing really nothing to grab on to a person’s attention. Without any context, you couldn’t really identify what you are looking at. 
+The culture with by far the most items in the collection is American, this is followed by German, French, Italian, British and Japanese. While there are plenty more cultures within the cultures, the pieces that those cultures possess are far less than the aforementioned cultures. The collection is still majority composed of pieces from western cultures. For our culture, we chose Korean, and the piece that was most viewed according to the Harvard_API_ALL_objects is a vessel with the title “ Large, Broad-Shouldered Jar with Decoration of Two Striding Dragons, Each Pursuing a Flaming Jewel”. ![Vessel](/assets/images/vessel.jpeg) The piece that was the least viewed was a fragment titled“ Sherd: Portion of the Lip of a Vessel, Probably a Jar or Bottle”. ![Fragment](/assets/images/fragment.jpeg) The most viewed object is a beautiful jar decorated with a drawing of two dragons, although being a Korean piece, the piece is something that is able to be enjoyed by people from all cultures and backgrounds. On the other hand, the least viewed peace is a fragment, with its origins being unknown as well. The reason why this could be the least view may be because of how unflattering it looks. There is nothing really nothing to grab on to a person’s attention. Without any context, you couldn’t really identify what you are looking at. 
 
 	
 
