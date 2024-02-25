@@ -4,8 +4,7 @@ date: 2024-02-22T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - assignment
 ---
 # Assignment 1: Cultural Heritage By the Numbers
 ## **Part 1**
