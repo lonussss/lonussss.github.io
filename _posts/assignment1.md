@@ -1,9 +1,9 @@
 ---
 title: "Assignment 1: Cultural Heritage by the numbers"
 categories:
-	-Blog 
+	- Blog 
 tags:
-	-assignment
+	- assignment
 ---
 # **Part 1**
 
