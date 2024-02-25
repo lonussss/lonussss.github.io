@@ -1,5 +1,6 @@
 ---
 title: "Assignment 1: Cultural Heritage By the Numbers"
+date: 2024-02-25
 categories:
 	- blog 
 tags:
