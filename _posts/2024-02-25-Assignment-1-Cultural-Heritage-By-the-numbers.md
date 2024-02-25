@@ -5,6 +5,7 @@ categories:
 tags:
 	- assignment
 ---
+
 # Assignment 1: Cultural Heritage By the Numbers
 ## **Part 1**
 
