@@ -56,7 +56,7 @@ This assignment would work mostly for languages based in the alphabet based lang
 
 This assignment has opened up different ways to present data or information that would otherwise be hard to visualize. As mentioned in Drucker's book, data visualized is easier to analyze a large amount of information (Drucker 86). For example, our use of the bubbles and word cloud made it easier on the eyes to look at the frequency of words as opposed to a large spreadsheet. The way we choose to visualize a dataset has just as much of an impact as the data choose. 
 
-
+After completing this assignment, we found that our experience with using Voyant Tools was intriguing and informative, as we analyzed some of Shakespeare’s play scripts by looking at the frequency of certain words. We were briefly able to spot the themes of each play and we were able to observe how many lines some of the characters had. Doing word cloud analysis for character participation in a play was very interesting because a character might’ve participated more or less than you’d expect from their character role (main character, background character, etc). Without computer assistance, it would have been very time consuming and boring to count each character’s number of lines.
 
 Citations:
 https://voyant-tools.org/
