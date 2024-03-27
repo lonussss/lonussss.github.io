@@ -33,7 +33,7 @@ Now that we all have a brief understanding of the plays, we can move onto the an
 
 ![Romeo and Juliet](/assets/images/Romeo.png)
 
-Romeo and Juliet is a story that most, if not all students in the world know about. Even if you have not read it, the story of Romeo and Juliet is inescapable. One of the most interesting things we noticed from this word cloud is the fact that the word Juliet wasn’t used as much as we thought it would be, considering the story was about her and Romeo. Romeo was used a total of 143 times, whereas Juliet showed up only 65 times. One reasoning for this may just be the amount of lines each character has. Another reason could be the amount of times “Rom.” or “Jul.” is used instead of “Romeo” or “Juliet.” Putting the character names aside, we can see that words relating to love and conflicts are common terms. This includes: “love,” “death,” “wife,” “dead,” “married.” This makes sense given the plot of the play, which has to do with the romantic conflict between Romeo and Juliet that ultimately leads to their death. From this we learned that repetition of certain words in a word cloud can help us piece together what the central theme of the text may be.\
+Romeo and Juliet is a story that most, if not all students in the world know about. Even if you have not read it, the story of Romeo and Juliet is inescapable. One of the most interesting things we noticed from this word cloud is the fact that the word Juliet wasn’t used as much as we thought it would be, considering the story was about her and Romeo. Romeo was used a total of 143 times, whereas Juliet showed up only 65 times. One reasoning for this may just be the amount of lines each character has. Another reason could be the amount of times “Rom.” or “Jul.” is used instead of “Romeo” or “Juliet.” Putting the character names aside, we can see that words relating to love and conflicts are common terms. This includes: “love,” “death,” “wife,” “dead,” “married.” This makes sense given the plot of the play, which has to do with the romantic conflict between Romeo and Juliet that ultimately leads to their death. From this we learned that repetition of certain words in a word cloud can help us piece together what the central theme of the text may be.
 
 The following is an interactive visual taken from voyage called, *bubble*. This visual shows the most frequent words and their usage as we go through the document. An interesting usage for this visual when analyzing a play is noticing the frequency of names when it goes through the script. For example, if we focus on 'Romeo' or 'Rom', we can see when this character appears the most within the play, which when you look at the graphic, shows an increasing amount of 'Rom', near the middle of play. 
 
@@ -47,7 +47,8 @@ Moving onto Hamlet, if we again ignore the names of characters, we see a lot of 
 
 **Macbeth** 
 
-![Hamlet](/assets/images/macbeth.png)
+![Macbeth](/assets/images/macbeth.png)
+
 We found that the word cloud for Macbeth was the most interesting to look at if you had no prior knowledge of the plot of Macbeth. Common words like: “fear,” “death,” “murderer,” “poor,” “bloody,” “strange,” “dead,” are all quite noticeable as they’re all in a bright red. These common words make it seem like the play’s genre is horror and has to do with a scary, bloody, murder. Other words like “witch” and “king” make sense knowing that the three witches told Macbeth he’ll become king, which is the start to all of the chaos that leads to bloody murders and paranoia.
 
 ## **Conclusion/ Reflection**
@@ -58,7 +59,7 @@ This assignment has opened up different ways to present data or information that
 
 After completing this assignment, we found that our experience with using Voyant Tools was intriguing and informative, as we analyzed some of Shakespeare’s play scripts by looking at the frequency of certain words. We were briefly able to spot the themes of each play and we were able to observe how many lines some of the characters had. Doing word cloud analysis for character participation in a play was very interesting because a character might’ve participated more or less than you’d expect from their character role (main character, background character, etc). Without computer assistance, it would have been very time consuming and boring to count each character’s number of lines.
 
-Citations:
+## **Citations**
 https://voyant-tools.org/
 https://www.gutenberg.org/cache/epub/1777/pg1777-images.html 
 https://www.gutenberg.org/cache/epub/2265/pg2265-images.html 
