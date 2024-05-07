@@ -6,8 +6,10 @@ categories:
 tags:
   - assignment
 ---
-# Project 1 Summary
-<iframe style='width: 487px; height: 423px;' src='https://docs.google.com/presentation/d/1yDPNW11N6BpUCXVfqtVh2T981A9TYaXTO3LNWLZSA-c/edit?usp=sharing'></iframe>
+# Final Portfolio
+## **Project 1 Summary**
+
+<iframe style='width: 444px; height: 408px;' src='https://docs.google.com/presentation/d/1yDPNW11N6BpUCXVfqtVh2T981A9TYaXTO3LNWLZSA-c/edit?usp=sharing'></iframe>
 
 
 
