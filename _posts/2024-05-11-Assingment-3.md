@@ -16,11 +16,20 @@ For this assignment on Spatial Data, I have chosen the source of [The Brooklyn C
 
 ## **Data Collection**
 We chose 2 random pages 221-222 and I copied the words of the entire page, and created a csv file of the data using chatgpt. We were able to manually copy and paste from the page onto chatGPT because there was an ocr layer already applied on to the source. Attached below is the page we have selected. ![Directory](/assets/images/Directory.png)
+
+
 The prompt we provided chatGPT with was: “Make a CSV file with and only using  the above data  with 50 rows.” We attempted to tell chatGPT to create more rows of data, but when we tried that, chatGPT began to make up data or repeat data. With the CSV file created, We uploaded it to google sheets. The columns include the name of the business owner, their occupation, the location of their business. Using Geocode by Awesome Table, we was able to produce longitude and latitude data from the given addresses. As all the addresses were located in Brooklyn, I added Brooklyn in front of all the addresses in order to improve accuracy. The Geocode was able to provide 35 out of 50 longitudinal and latitudinal data. I’m unsure whether the remaining 15 were a result of Geocode not being able to produce the data or an error with the data from the OCR. 
 ![Brookyln](/assets/images/Brooklyn.png)
 ## Data Visualization
 
 Using [kepler.gl](https://kepler.gl), a powerful web- based app that helps with visualizing geolocation data, we were able to provide a map from the CSV. Due to the nature of the data, there were no repeats and meaningful grouping of the data. Most of the occupations were different and grouping by name doesn’t really provide much insight. 
+![Brooklynkepler](/assets/images/Brooklynkepler.png)
 
-## Conclusions 
+A few of the data points created when placed on the map led me to discover several points that were far from brooklyn. Upon further investigation on these points, I discovered that these mistakes were due to the names of the addresses having names that are also names of major cities within other states and areas. For example, the dot on California had the name ‘Oakland’ in its name and the one in Georgia had ‘Macon’, both major cities of these respective states. Therefore, these mistaken points were caused by the geocoding process, incorrectly interpreting the addresses. 
+![USAkepler](/assets/images/USAkepler.png)
+
+
+##Conclusion
+This project introduced us to the idea of visualizing datasets, particularly on a map. We were able to see a clear area where the businesses stood. With a larger data set, we may be able to identify even more clearly hotspots for businesses and perhaps even hotspots for specific businesses. This was not possible on the size of data we analyzed due to the lack of repeating businesses. This project also exposed many of the limitations of both OCR in correctly identifying text and also with Geocoding with correctly providing locational data. 
+
 
