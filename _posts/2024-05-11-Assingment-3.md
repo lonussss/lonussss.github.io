@@ -1,6 +1,5 @@
 ---
 title: "Assingment 3"
-date: 2024-05-11T15:34:30-04:00
 categories:
   - Blog
 tags:
