@@ -4,11 +4,12 @@ categories:
   - Blog
 tags:
   - assignment
+toc: true
+toc_label: "Content Directory"
+toc_sticky: true
 ---
 
-Assignment 3: 
-
-Spatial Data
+# Spatial Data
 
 ## **Introduction**
 For this assignment on Spatial Data, I have chosen the source of [The Brooklyn City and Business Directory 1879-80](https://archive.org/details/1880BPL/page/n21/mode/2up). This source is a directory to businesses, government agencies and public services in Brooklyn in the year 1880. The source includes the name of the business or business owner, the occupation, and the address of the business. 
@@ -26,7 +27,7 @@ I chose 2 random pages 221-222 and I copied the words of the entire page, and cr
 
 
 
-##Data Visualization
+## Data Visualization
 
 Using [kepler.gl](https://kepler.gl), a powerful web- based app that helps with visualizing geolocation data, we were able to provide a map from the CSV. Due to the nature of the data, there were no repeats and meaningful grouping of the data. Most of the occupations were different and grouping by name doesn’t really provide much insight. 
 
