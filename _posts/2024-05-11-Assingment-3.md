@@ -23,7 +23,7 @@ The prompt we provided chatGPT with was: “Make a CSV file with and only using 
 ## Data Visualization
 
 Using [kepler.gl](https://kepler.gl), a powerful web- based app that helps with visualizing geolocation data, we were able to provide a map from the CSV. Due to the nature of the data, there were no repeats and meaningful grouping of the data. Most of the occupations were different and grouping by name doesn’t really provide much insight. 
-![Brooklynkepler](/assets/images/Brooklynkepler.png)
+![Brooklynkepler](/assets/images/brooklynkepler.png)
 
 A few of the data points created when placed on the map led me to discover several points that were far from brooklyn. Upon further investigation on these points, I discovered that these mistakes were due to the names of the addresses having names that are also names of major cities within other states and areas. For example, the dot on California had the name ‘Oakland’ in its name and the one in Georgia had ‘Macon’, both major cities of these respective states. Therefore, these mistaken points were caused by the geocoding process, incorrectly interpreting the addresses. 
 ![USAkepler](/assets/images/USAkepler.png)
